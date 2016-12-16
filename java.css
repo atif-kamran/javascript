@@ -26,7 +26,15 @@
  margin-right:15px;
  background-color: RGB(45,125,140);
  display: inline-block;
- border-radius: 20px; 
+ border-radius: 20px;
+ text-decoration: underline; 
+}
+#left_nav ul{
+text-decoration-line: underline;
+}
+.sublist {
+	margin-left:20px;
+	list-style-type: circle;
 }
 #main_content{
  width: 670px;
